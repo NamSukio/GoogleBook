@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    >
+
+    <!-- Header !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark"
+        android:padding="20dp"
+        >
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imageBookNav"
+            android:src="@drawable/bookbackground"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTitleNav"
+            android:text="Google Book"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>\
+
+    <!-- Listbook !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        >
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_list"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="ListBook"
+            android:paddingLeft="8dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:id="@+id/tvListBook"
+            />
+    </LinearLayout>
+
+    <!-- BookMark !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        >
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_book_mark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="Bookmark"
+            android:paddingLeft="8dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:id="@+id/tvBookmark"
+            />
+    </LinearLayout>
+
+    <!-- Favorite !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        >
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_favorite_black_24dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="Favorite"
+            android:paddingLeft="8dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:id="@+id/tvFavorite"
+            />
+    </LinearLayout>
+
+</LinearLayout>

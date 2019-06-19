@@ -1,0 +1,754 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 466,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NOfODAAAQBAJ",
+      "etag": "lc0oj12DNvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NOfODAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Core of Hacking",
+        "subtitle": "",
+        "authors": [
+          "Rahul Dwivedi"
+        ],
+        "publisher": "Onlinegatha",
+        "publishedDate": "2016-08-09",
+        "description": "Why write a book about hacking? The question is really, as we will see throughout the book, computer attacks happen each and every day, with increasing virulence. To create a good defense, you must understand the offensive techniques of your adversaries. In my career as a system penetration tester, incident response team member, and information security architect, I’ve seen numerous types of attacks ranging from simple scanning by clueless kids to elite attacks sponsored by the criminal underground.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789385818837"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "938581883X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 251,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NOfODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NOfODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=NOfODAAAQBAJ&pg=PA53&dq=intitle&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NOfODAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-NOfODAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 152573.0,
+          "currencyCode": "VND"
+        },
+        "retailPrice": {
+          "amount": 114430.0,
+          "currencyCode": "VND"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NOfODAAAQBAJ&rdid=book-NOfODAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.52573E11,
+              "currencyCode": "VND"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.1443E11,
+              "currencyCode": "VND"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.vn/books/download/The_Core_of_Hacking-sample-pdf.acsm?id=NOfODAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NOfODAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mode =Refresh inurl: axis-cgi/jpg inurl: axis-cgi/mjpg (motion-JPEG) inurl: view/\u003cbr\u003e\nindexFrame.shtml inurl: view/index.shtml inurl: view/view.shtml \u003cb\u003eintitle\u003c/b\u003e:” Live view” \u003cbr\u003e\n\u003cb\u003eintitle\u003c/b\u003e: axis \u003cb\u003eintitle\u003c/b\u003e: liveapplet allintitle:” Network Camera NetworkCamera” \u003cb\u003eintitle\u003c/b\u003e:&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Yh8t_COmDoC",
+      "etag": "FAnypk+hOKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Yh8t_COmDoC",
+      "volumeInfo": {
+        "title": "Advanced Web Technologies and Applications",
+        "subtitle": "6th Asia-Pacific Web Conference, APWeb 2004, Hangzhou, China, April 14-17, 2004, Proceedings",
+        "authors": [
+          "Jeffrey Xu Yu",
+          "Xuemin Lin",
+          "Hongjun Lu",
+          "Yanchun Zhang"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2004-04-05",
+        "description": "The Asia-Paci?c region has emerged in recent years as one of the fastest g- wing regions in the world in the use of Web technologies as well as in making signi?cant contributions to WWW research and development. Since the ?rst Asia-Paci?c Web conference in 1998, APWeb has continued to provide a forum for researchers, professionals, and industrial practitioners from around the world to share their rapidly evolving knowledge and to report new advances in WWW technologies and applications. APWeb 2004 received an overwhelming 386 full-paper submissions, including 375 research papers and 11 industrial papers from 20 countries and regions: A- tralia,Canada,China,France,Germany,Greece,HongKong,India,Iran,Japan, Korea, Norway, Singapore, Spain, Switzerland, Taiwan, Turkey, UK, USA, and Vietnam. Each submission was carefully reviewed by three members of the p- gram committee. Among the 386 submitted papers, 60 regular papers, 24 short papers, 15 poster papers, and 3 industrial papers were selected to be included in the proceedings. The selected papers cover a wide range of topics including Web services, Web intelligence, Web personalization, Web query processing, Web - ching, Web mining, text mining, data mining and knowledge discovery, XML database and query processing, work?ow management, E-commerce, data - rehousing, P2P systems and applications, Grid computing, and networking. The paper entitled “Towards Adaptive Probabilistic Search in Unstructured P2P - stems”, co-authored by Linhao Xu, Chenyun Dai, Wenyuan Cai, Shuigeng Zhou, and Aoying Zhou, was awarded the best APWeb 2004 student paper.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540213710"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540213716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 938,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4Yh8t_COmDoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4Yh8t_COmDoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=4Yh8t_COmDoC&pg=PA617&dq=intitle&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=4Yh8t_COmDoC&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Web_Technologies_and_Applicatio.html?hl=&id=4Yh8t_COmDoC"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.vn/books/download/Advanced_Web_Technologies_and_Applicatio-sample-pdf.acsm?id=4Yh8t_COmDoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Yh8t_COmDoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... s2 intext:c1 intext:c2 -\u003cb\u003eintitle\u003c/b\u003e: s1 Qds intext:s1 intext:s 2 -\u003cb\u003eintitle\u003c/b\u003e:c1 -\u003cb\u003eintitle\u003c/b\u003e:c2 -\u003cbr\u003e\n\u003cb\u003eintitle\u003c/b\u003e:c3intitle:s1 -\u003cb\u003eintitle\u003c/b\u003e:c1 -\u003cb\u003eintitle\u003c/b\u003e:c2 Qbc \u003cb\u003eintitle\u003c/b\u003e:s1intitle:s2 -allintext:c1 c2 c3 \u003cbr\u003e\n\u003cb\u003eintitle\u003c/b\u003e:s1 -allintext:c1 c2 Qdc \u003cb\u003eintitle\u003c/b\u003e:c1 \u003cb\u003eintitle\u003c/b\u003e:c2 \u003cb\u003eintitle\u003c/b\u003e: c3 -intext:s1 -intext: s2 \u003cbr\u003e\n\u003cb\u003eintitle\u003c/b\u003e:c1&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2W3CAwAAQBAJ",
+      "etag": "HizG6QfjRjc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2W3CAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Advanced Googling",
+        "subtitle": "How to Search Smarter, Faster and More Efficiently on Google",
+        "authors": [
+          "Garrett Wasny, MA, CMC, CITP/FIBP"
+        ],
+        "publisher": "Garrett Wasny, MA, CMC, CITP/FIBP",
+        "publishedDate": "2014-06-08",
+        "description": "This is the workbook for Garrett Wasny's Advanced Googling professional development seminar. He delivers the course online and in-person to accountants, lawyers, doctors, engineers, pro sports executives and other elite knowledge workers worldwide. In easy-to-understand and non-techical language, the course and manual explain how to: Customize Google for maximum speed, security and style Utilize productivity-enhancing apps and plug-ins that instantly enhance your Google experience and performance Scan Google with added precision, nuance, speed and confidence Discover literally 10x more information that’s hiding in plain sight on the Google search results page Compose advanced search queries that generate more relevant results Automatically and continuously monitor your operational landscape using free alert and aggregation services Use Google’s new generation of predictive apps that know what you want without you having to ask Use little-known hot-words and commands to uncover concealed Google signals Creatively use language in Google search strings to boost relevancy Transform Google into your backup brain, robot assistant and ambient sidekick Leverage Google hundreds of ways to improve your online research, collaboration and communications in your professional and personal life",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 407,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2W3CAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2W3CAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=2W3CAwAAQBAJ&pg=PA170&dq=intitle&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2W3CAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-2W3CAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.1576301E7,
+          "currencyCode": "VND"
+        },
+        "retailPrice": {
+          "amount": 8103411.0,
+          "currencyCode": "VND"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2W3CAwAAQBAJ&rdid=book-2W3CAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.1576301E13,
+              "currencyCode": "VND"
+            },
+            "retailPrice": {
+              "amountInMicros": 8.103411E12,
+              "currencyCode": "VND"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.vn/books/download/Advanced_Googling-sample-pdf.acsm?id=2W3CAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2W3CAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tip: combine intext: command with other operations such as search by phrase, \u003cbr\u003e\nfiletype and domain to “force” search results that include that specific keyword \u003cbr\u003e\nphrase or term in the search results. \u003cb\u003eINTITLE\u003c/b\u003e: -- SEARCH FOR KEYWORDS IN A\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GqTwl7-WZtUC",
+      "etag": "Iet63oBexL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GqTwl7-WZtUC",
+      "volumeInfo": {
+        "title": "Google Hacks",
+        "authors": [
+          "Tara Calishain",
+          "Rael Dornfest"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2003",
+        "description": "Explains how to take advantage of Google's user interface, discussing how to filter results, use Google's special services, integrate Google applications into a Web site or Weblog, write information retrieval programs, and play games.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0596004478"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596004477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GqTwl7-WZtUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GqTwl7-WZtUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=GqTwl7-WZtUC&pg=PA52&dq=intitle&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=GqTwl7-WZtUC&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Google_Hacks.html?hl=&id=GqTwl7-WZtUC"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GqTwl7-WZtUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the cool stuff. These options provide several different modifiers designed \u003cbr\u003e\nto catch glossaries in Google. --&gt; &lt;option selected value=&quot;\u003cb\u003eintitle\u003c/b\u003e:dictionary OR \u003cbr\u003e\n\u003cb\u003eintitle\u003c/b\u003e:glossary OR \u003cb\u003eintitle\u003c/b\u003e: lexicon OR \u003cb\u003eintitle\u003c/b\u003e: definitions&quot;&gt; synonyms of &quot;glossary&quot; \u003cbr\u003e\nin&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qQuqFlXDDaoC",
+      "etag": "LzBPZPPz97E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qQuqFlXDDaoC",
+      "volumeInfo": {
+        "title": "Hacking For Beginners",
+        "subtitle": "a beginners guide to learn ethical hacking",
+        "publisher": "Manthan M Desai",
+        "publishedDate": "2010-12-09",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "averageRating": 5.0,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qQuqFlXDDaoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qQuqFlXDDaoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=qQuqFlXDDaoC&pg=PA190&dq=intitle&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=qQuqFlXDDaoC&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacking_For_Beginners.html?hl=&id=qQuqFlXDDaoC"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qQuqFlXDDaoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eintitle\u003c/b\u003e:liveapplet inurlzLvAppl \u003cb\u003eintitle\u003c/b\u003e:&quot;EvoCam&quot; inurl:&quot;webcam.html&quot; \u003cb\u003eintitle\u003c/b\u003e:&quot;Live \u003cbr\u003e\nNetSnap Cam-Server feed&quot; \u003cb\u003eintitle\u003c/b\u003e:&quot;Live View / — AXIS 206M&quot; 0 \u003cb\u003eintitle\u003c/b\u003e:&quot;Live View /\u003cbr\u003e\n— AXIS 206W&quot; 0 \u003cb\u003eintitle\u003c/b\u003e:&quot;Live View / - AXIS 210&quot; 0 inurl:indexFrame.shtml Axis 0&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YlWNiKhxji4C",
+      "etag": "bqlc6gPTzaU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YlWNiKhxji4C",
+      "volumeInfo": {
+        "title": "Hacking Exposed 7 : Network Security Secrets & Solutions, Seventh Edition",
+        "subtitle": "Network Security Secrets & Solutions, Seventh Edition",
+        "authors": [
+          "Stuart McClure",
+          "Joel Scambray",
+          "George Kurtz"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2012-07-11",
+        "description": "The latest tactics for thwarting digital attacks “Our new reality is zero-day, APT, and state-sponsored attacks. Today, more than ever, security professionals need to get into the hacker’s mind, methods, and toolbox to successfully deter such relentless assaults. This edition brings readers abreast with the latest attack vectors and arms them for these continually evolving threats.” --Brett Wahlin, CSO, Sony Network Entertainment “Stop taking punches--let’s change the game; it’s time for a paradigm shift in the way we secure our networks, and Hacking Exposed 7 is the playbook for bringing pain to our adversaries.” --Shawn Henry, former Executive Assistant Director, FBI Bolster your system’s security and defeat the tools and tactics of cyber-criminals with expert advice and defense strategies from the world-renowned Hacking Exposed team. Case studies expose the hacker’s latest devious methods and illustrate field-tested remedies. Find out how to block infrastructure hacks, minimize advanced persistent threats, neutralize malicious code, secure web and database applications, and fortify UNIX networks. Hacking Exposed 7: Network Security Secrets & Solutions contains all-new visual maps and a comprehensive “countermeasures cookbook.” Obstruct APTs and web-based meta-exploits Defend against UNIX-based root access and buffer overflow hacks Block SQL injection, spear phishing, and embedded-code attacks Detect and terminate rootkits, Trojans, bots, worms, and malware Lock down remote access using smartcards and hardware tokens Protect 802.11 WLANs with multilayered encryption and gateways Plug holes in VoIP, social networking, cloud, and Web 2.0 services Learn about the latest iPhone and Android attacks and how to protect yourself",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780071780285"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0071780289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 768,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YlWNiKhxji4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YlWNiKhxji4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=YlWNiKhxji4C&q=intitle&dq=intitle&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=YlWNiKhxji4C&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacking_Exposed_7_Network_Security_Secre.html?hl=&id=YlWNiKhxji4C"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YlWNiKhxji4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "More information at http:Nohnny.ihackstuif.comr&#39;indei-c.php?module=\u003cbr\u003e\nprodreviews — Google Hacking Database [804] A &quot;cacheserverreport for&quot; &quot;This \u003cbr\u003e\nanalysis was produced by calamaris&quot; \u003cb\u003eintitle\u003c/b\u003e:&quot;Ganglia&quot; &quot;Cluster Report for&quot; \u003cb\u003eintitle\u003c/b\u003e:&quot;\u003cbr\u003e\nlndex oi&quot;&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z3xIAAAAYAAJ",
+      "etag": "0hk2xNRxMC0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z3xIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Laws of Jamaica: 1760-1792",
+        "authors": [
+          "Jamaica"
+        ],
+        "publishedDate": "1802",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433003278599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z3xIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z3xIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=Z3xIAAAAYAAJ&pg=PR9-IA7&dq=intitle&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Z3xIAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Z3xIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Z3xIAAAAYAAJ&rdid=book-Z3xIAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.vn/books/download/The_Laws_of_Jamaica_1760_1792.pdf?id=Z3xIAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0hbeKTH-f3kqHLCJMQBELKGIptvA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z3xIAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An act- to \u003cb\u003eintitle\u003c/b\u003e George Cunningham, Samuel Laing* and Margaret ? Bright \u003cbr\u003e\nSadler, of the parish of Kingston, free mustees, to the fame rights and privi- . \u003cbr\u003e\nleges with English subjects, under certain restrictions. An act to \u003cb\u003eintitle\u003c/b\u003e Alexander \u003cbr\u003e\nRussell,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DU2DQakfyoIC",
+      "etag": "ntqKg1ZFA7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DU2DQakfyoIC",
+      "volumeInfo": {
+        "title": "Professional Development with Web APIs",
+        "subtitle": "Google, eBay, Amazon.com, MapPoint, FedEx",
+        "authors": [
+          "Denise M. Gosnell"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2008-04-21",
+        "description": "Shows developers how to harness the power of services such as Google, eBay, PayPal, and Amazon.com from within an application, whether it is Web-based, Windows-based, or even a Microsoft Office application After a quick review of the basics, readers will dive into more advanced techniques such as calling the APIs from mobile devices, Office VBA programs, Windows Forms and Web applications, and even how to integrate the various APIs together for a complete solution Veteran Wrox author Denise Gosnell skillfully guides readers through the ins and outs of the various services, the anatomy of an API query, which features are available via the APIs, and how to get results from their own applicationsReaders will build two fully functional applications to apply what they have learned-one a Windows program, the other a Web application",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470331774"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0470331771"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DU2DQakfyoIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DU2DQakfyoIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=DU2DQakfyoIC&pg=PA18&dq=intitle&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=DU2DQakfyoIC&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Professional_Development_with_Web_APIs.html?hl=&id=DU2DQakfyoIC"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DU2DQakfyoIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eintitle\u003c/b\u003e: This option allows you to limit your search to Web page titles. Allintitle: is a \u003cbr\u003e\nvariation that finds Web pages where all the words specified make up the title of \u003cbr\u003e\nthe Web page. \u003cb\u003eintitle\u003c/b\u003e:”George Bush” allintitle:”election day” vote&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SQJVAgAAQBAJ",
+      "etag": "KA/y+LbcO5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SQJVAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Google Pocket Guide",
+        "authors": [
+          "Tara Calishain",
+          "Rael Dornfest",
+          "DJ Adams"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2003-06-12",
+        "description": "Beneath its deceptively simple search form, Google is a remarkably powerful and flexible search engine that indexes billions of web pages, handling more than 150 million searches a day. You know that what you're looking for must be in there somewhere, but how do you make Google work for you?Crafted from our best-selling Google Hacks title, the Google Pocket Guide provides exactly the information you need to make your searches faster and more effective, right from the start. The Google Pocket Guide unleashes the power behind that blinking cursor by delivering: A thorough but concise tour of Google's features Practical examples to inspire going beyond the basic keyword search Secrets for constructing more powerful queries using Google's special syntax Advice on how to understand and further refine the results Google provides Whether you're a student researching a topic for class, a medical or legal professional needing field-specific reference information, or a home user looking for that article on home repair you forgot to bookmark, the Google Pocket Guide will take you from mystified to mastery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596528676"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596528671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SQJVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SQJVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=SQJVAgAAQBAJ&pg=PA65&dq=intitle&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=SQJVAgAAQBAJ&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Google_Pocket_Guide.html?hl=&id=SQJVAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SQJVAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... and so forth. group:rec.humor* group:alt* group:comp.lang.perl.misc author: \u003cbr\u003e\nauthor: specifies the author of a newsgroup post. This. \u003cb\u003eintitle\u003c/b\u003e: searches posting \u003cbr\u003e\ntitles for query words. \u003cb\u003eintitle\u003c/b\u003e:literature group:humanities* author:john \u003cb\u003eintitle\u003c/b\u003e:\u003cbr\u003e\nhardware&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mRpbAQAAQBAJ",
+      "etag": "y5LLcpZEv0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRpbAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ultimate Guide to Link Building",
+        "subtitle": "How to Build Backlinks, Authority and Credibility for Your Website, and Increase Click Traffic and Search Ranking",
+        "authors": [
+          "Eric Ward",
+          "Garrett French"
+        ],
+        "publisher": "Entrepreneur Press",
+        "publishedDate": "2013-03-01",
+        "description": "The web today is comprised of trillions of links: links between websites, links within social media venues like Facebook and Twitter, and even links in email inboxes. Who links to a site and how they link to it is one of the most important factors that search engines rely on when ranking results. But how do marketers control this? Link building expert Eric Ward provides the answers. Sharing little-known techniques for link building via social media platforms, blogs, partnerships, public relations, articles, and more, Ward teaches marketers which link-building techniques will maximize the quality links that point to their site, allowing them to charm both search engines and customers and which methods to avoid. This one-of-a-kind guide details a variety of link building tools, tactics, and techniques illustrated by case studies, expert interviews, and resources. Ward leaves no opportunity unexplored, and no link-building questions unanswered.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781613081808"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1613081804"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mRpbAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mRpbAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=mRpbAQAAQBAJ&pg=PA47&dq=intitle&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=mRpbAQAAQBAJ&dq=intitle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ultimate_Guide_to_Link_Building.html?hl=&id=mRpbAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.vn/books/download/Ultimate_Guide_to_Link_Building-sample-epub.acsm?id=mRpbAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRpbAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Check on the presence of interviews with queries such as: n MDKW \u003cb\u003eintitle\u003c/b\u003e:\u003cbr\u003e\ninterview n MDKW \u003cb\u003eintitle\u003c/b\u003e:“q&amp;a with” n MDKW \u003cb\u003eintitle\u003c/b\u003e:“tips from” OR “advice from” \u003cbr\u003e\nOR “chat with” Look for Niche Forums, Social Networking Sites, and Q/A Sites \u003cbr\u003e\nWhat is&nbsp;..."
+      }
+    }
+  ]
+}
