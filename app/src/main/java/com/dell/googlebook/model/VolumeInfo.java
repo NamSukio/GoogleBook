@@ -14,7 +14,7 @@ public class VolumeInfo implements Serializable {
     @SerializedName("authors")
     @Expose
     private List<String> authors = null;
-    @SerializedName("publisher")
+    @SerializedName("publishDate")
     private String publishedDate;
     @SerializedName("description")
     @Expose

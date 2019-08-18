@@ -16,6 +16,8 @@ public class Item implements Serializable {
     @Expose
     private SaleInfo saleInfo;
 
+    private boolean checkBox;
+
     public VolumeInfo getVolumeInfo() {
         return volumeInfo;
     }
@@ -43,5 +45,13 @@ public class Item implements Serializable {
     public Item(VolumeInfo volumeInfo, SaleInfo saleInfo) {
         this.volumeInfo = volumeInfo;
         this.saleInfo = saleInfo;
+    }
+
+    public boolean isCheckBox() {
+        return checkBox;
+    }
+
+    public void setCheckBox(boolean checkBox) {
+        this.checkBox = checkBox;
     }
 }

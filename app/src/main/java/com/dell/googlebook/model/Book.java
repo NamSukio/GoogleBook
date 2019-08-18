@@ -2,35 +2,39 @@ package com.dell.googlebook.model;
 
 public class Book {
 
-
+    private int idList;
+    private String id;
     private String title;
     private String author;
-    private String publishedDate;
     private String description;
     private String category;
     private String imageBook;
-    private String retailPrice;
-    private String buy;
     private String preview;
     private String price;
-    private int pageCount;
-    private String url;
+    private String info;
+    boolean checkbox;
 
-    public Book(String title, String author, String publishedDate, String description, String category, String imageBook, String buy, String preview, String price, int pageCount, String url) {
+    public Book(String id, String title, String author, String description, String category, String imageBook, String preview, String price, String info) {
+        this.id = id;
         this.title = title;
         this.author = author;
-        this.publishedDate = publishedDate;
         this.description = description;
         this.category = category;
         this.imageBook = imageBook;
-        this.buy = buy;
         this.preview = preview;
         this.price = price;
-        this.pageCount = pageCount;
-        this.url = url;
+        this.info = info;
     }
 
     public Book() {
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public String getTitle() {
@@ -47,14 +51,6 @@ public class Book {
 
     public void setAuthor(String author) {
         this.author = author;
-    }
-
-    public String getPublishedDate() {
-        return publishedDate;
-    }
-
-    public void setPublishedDate(String publishedDate) {
-        this.publishedDate = publishedDate;
     }
 
     public String getDescription() {
@@ -81,22 +77,6 @@ public class Book {
         this.imageBook = imageBook;
     }
 
-    public String getRetailPrice() {
-        return retailPrice;
-    }
-
-    public void setRetailPrice(String retailPrice) {
-        this.retailPrice = retailPrice;
-    }
-
-    public String getBuy() {
-        return buy;
-    }
-
-    public void setBuy(String buy) {
-        this.buy = buy;
-    }
-
     public String getPreview() {
         return preview;
     }
@@ -105,20 +85,12 @@ public class Book {
         this.preview = preview;
     }
 
-    public int getPageCount() {
-        return pageCount;
+    public String getInfo() {
+        return info;
     }
 
-    public void setPageCount(int pageCount) {
-        this.pageCount = pageCount;
-    }
-
-    public String getUrl() {
-        return url;
-    }
-
-    public void setUrl(String url) {
-        this.url = url;
+    public void setInfo(String info) {
+        this.info = info;
     }
 
     public String getPrice() {
@@ -127,5 +99,34 @@ public class Book {
 
     public void setPrice(String price) {
         this.price = price;
+    }
+
+    public int getIdList() {
+        return idList;
+    }
+
+    public void setIdList(int idList) {
+        this.idList = idList;
+    }
+
+    public boolean isCheckbox() {
+        return checkbox;
+    }
+
+    public void setCheckbox(boolean checkbox) {
+        this.checkbox = checkbox;
+    }
+
+    public Book(int idList, String id, String title, String author, String description, String category, String imageBook, String preview, String price, String info) {
+        this.idList = idList;
+        this.id = id;
+        this.title = title;
+        this.author = author;
+        this.description = description;
+        this.category = category;
+        this.imageBook = imageBook;
+        this.preview = preview;
+        this.price = price;
+        this.info = info;
     }
 }

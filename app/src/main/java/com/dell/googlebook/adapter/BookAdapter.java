@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -45,10 +46,12 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.BookHolder> {
             public void onClick(View v) {
                 Intent intent = new Intent(context, ActivityBook.class);
                 int pos = holder.getAdapterPosition();
+                intent.putExtra("ID",items.get(pos).getId());
                 intent.putExtra("Title",items.get(pos).getVolumeInfo().getTitle());
-                intent.putExtra("Author",items.get(pos).getVolumeInfo().getAuthors().get(0));
+
                 intent.putExtra("Desc",items.get(pos).getVolumeInfo().getDescription());
                 try {
+                    intent.putExtra("Author",items.get(pos).getVolumeInfo().getAuthors().toString());
                     intent.putExtra("Category",items.get(pos).getVolumeInfo().getCategories().get(0));
                     intent.putExtra("Price",items.get(pos).getSaleInfo().getListPrice().toString());
                 }catch (NullPointerException e){
@@ -77,7 +80,14 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.BookHolder> {
         }catch (NullPointerException e){
 
         }
-        Glide.with(context).load(book.getVolumeInfo().getImageLinks().getThumbnail()).into(bookHolder.imageBook);
+        if(book.getVolumeInfo().getImageLinks().getThumbnail() == null){
+            Glide.with(context).load(R.drawable.bookbackground).into(bookHolder.imageBook);
+        }else {
+            Glide.with(context).load(book.getVolumeInfo().getImageLinks().getThumbnail()).placeholder(R.drawable
+                    .bookbackground).error(R.drawable.bookbackground)
+                    .into(bookHolder.imageBook);
+        }
+        //Glide.with(context).load(book.getVolumeInfo().getImageLinks().getThumbnail()).into(bookHolder.imageBook);
     }
 
     @Override
@@ -92,7 +102,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.BookHolder> {
         TextView tvTitle, tvCategory, tvPrice, tvAuthor;
         public BookHolder(@NonNull View itemView) {
             super(itemView);
-            layoutItem = (LinearLayout) itemView.findViewById(R.id.layout_item_book);
+            layoutItem = itemView.findViewById(R.id.layout_item_book);
             imageBook = itemView.findViewById(R.id.imagebook1);
             tvTitle = itemView.findViewById(R.id.tvTitle1);
             tvCategory = itemView.findViewById(R.id.tvCategory1);
