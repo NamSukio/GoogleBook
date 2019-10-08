@@ -1,2 +1,3 @@
-# GoogleBook
-Book app using Google book API
+# Google Book
+* Book app using Google Book API
+* MVP
